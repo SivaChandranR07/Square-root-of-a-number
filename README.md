@@ -27,7 +27,7 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![OUTPUT](squaout.png)
+![OUTPUT](.//home/sec/Square-root-of-a-number/squaout.png)
 
 
 ## Result:
